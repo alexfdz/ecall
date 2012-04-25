@@ -1,0 +1,1599 @@
+[
+            { id:"ad" , label: "Andorra", 
+                calls: [
+                   { type: "police", label: "Police", phone: "110"},
+                   { type: "medical", label: "Medical", phone: "118"},
+                   { type: "fire", label: "Fire", phone: "118"}
+               ]
+            },
+            { id:"ae" , label: "United Arab Emirates", 
+                calls: [
+                   { type: "police", label: "Police", phone: "999"},
+                   { type: "medical", label: "Medical", phone: "998"},
+                   { type: "fire", label: "Fire", phone: "997"}
+               ]
+            },
+            { id:"af" , label: "Afghanistan", 
+                calls: [
+                   { type: "police", label: "Police", phone: "119"},
+                   { type: "medical", label: "Medical", phone: "102"},
+                   { type: "fire", label: "Fire", phone: "119"}
+               ]
+            },
+            { id:"ag" , label: "Antigua and Barbuda", 
+                calls: [
+                   { type: "police", label: "Police", phone: "999"},
+                   { type: "medical", label: "Medical", phone: "999"},
+                   { type: "fire", label: "Fire", phone: "999"}
+               ]
+            },
+            { id:"ai" , label: "Anguilla", 
+                calls: [
+                   { type: "police", label: "Police", phone: "911"},
+                   { type: "medical", label: "Medical", phone: "911"},
+                   { type: "fire", label: "Fire", phone: "911"}
+               ]
+            },
+            { id:"al" , label: "Albania", 
+                calls: [
+                   { type: "police", label: "Police", phone: "129"},
+                   { type: "medical", label: "Medical", phone: "127"},
+                   { type: "fire", label: "Fire", phone: "128"}
+               ]
+            },
+            { id:"am" , label: "Armenia", 
+                calls: [
+                   { type: "police", label: "Police", phone: "102"},
+                   { type: "medical", label: "Medical", phone: "103"},
+                   { type: "fire", label: "Fire", phone: "101"}
+               ]
+            },
+            { id:"ao" , label: "Angola", 
+                calls: [
+                   { type: "police", label: "Police", phone: "110"},
+                   { type: "medical", label: "Medical", phone: "118"},
+                   { type: "fire", label: "Fire", phone: "118"}
+               ]
+            },
+            { id:"aq" , label: "Antartica", 
+                calls: [
+                   { type: "police", label: "Police", phone: "911"},
+                   { type: "medical", label: "Medical", phone: "911"},
+                   { type: "fire", label: "Fire", phone: "911"}
+               ]
+            },
+            { id:"ar" , label: "Argentina", 
+                calls: [
+                   { type: "police", label: "Police", phone: "101"},
+                   { type: "medical", label: "Medical", phone: "107"},
+                   { type: "fire", label: "Fire", phone: "100"}
+               ]
+            },
+            { id:"as" , label: "American Samoa", 
+                calls: [
+                   { type: "police", label: "Police", phone: "911"},
+                   { type: "medical", label: "Medical", phone: "911"},
+                   { type: "fire", label: "Fire", phone: "911"}
+               ]
+            },
+            { id:"at" , label: "Austria", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "112"}
+               ]
+            },
+            { id:"au" , label: "Australia", 
+                calls: [
+                   { type: "police", label: "Police", phone: "000"},
+                   { type: "medical", label: "Medical", phone: "000"},
+                   { type: "fire", label: "Fire", phone: "000"}
+               ]
+            },
+            { id:"aw" , label: "Aruba", 
+                calls: [
+                   { type: "police", label: "Police", phone: "911"},
+                   { type: "medical", label: "Medical", phone: "911"},
+                   { type: "fire", label: "Fire", phone: "911"}
+               ]
+            },
+            { id:"ax" , label: "Åland Islands", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "112"}
+               ]
+            },
+            { id:"az" , label: "Azerbaijan", 
+                calls: [
+                   { type: "police", label: "Police", phone: "102"},
+                   { type: "medical", label: "Medical", phone: "103"},
+                   { type: "fire", label: "Fire", phone: "101"}
+               ]
+            },
+            { id:"ba" , label: "Bosnia and Herzegovina", 
+                calls: [
+                   { type: "police", label: "Police", phone: "122"},
+                   { type: "medical", label: "Medical", phone: "124"},
+                   { type: "fire", label: "Fire", phone: "123"}
+               ]
+            },
+            { id:"bb" , label: "Barbados", 
+                calls: [
+                   { type: "police", label: "Police", phone: "211"},
+                   { type: "medical", label: "Medical", phone: "511"},
+                   { type: "fire", label: "Fire", phone: "311"}
+               ]
+            },
+            { id:"be" , label: "Belgium", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "112"}
+               ]
+            },
+            { id:"bg" , label: "Bulgaria", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "112"}
+               ]
+            },
+            { id:"bh" , label: "Bahrain", 
+                calls: [
+                   { type: "police", label: "Police", phone: "999"},
+                   { type: "medical", label: "Medical", phone: "999"},
+                   { type: "fire", label: "Fire", phone: "999"}
+               ]
+            },
+            { id:"bi" , label: "Burundi", 
+                calls: [
+                   { type: "police", label: "Police", phone: "117"},
+                   { type: "medical", label: "Medical", phone: "22232092"},
+                   { type: "fire", label: "Fire", phone: "118"}
+               ]
+            },
+            { id:"bj" , label: "Benin", 
+                calls: [
+                   { type: "police", label: "Police", phone: "21315899"}
+               ]
+            },      
+            { id:"bl" , label: "Saint Barthélemy", 
+                calls: [
+                   { type: "police", label: "Police", phone: "276012"},
+                   { type: "medical", label: "Medical", phone: "18"},
+                   { type: "fire", label: "Fire", phone: "18"}
+               ]
+            },
+            { id:"bm" , label: "Bermuda", 
+                calls: [
+                   { type: "police", label: "Police", phone: "911"},
+                   { type: "medical", label: "Medical", phone: "911"},
+                   { type: "fire", label: "Fire", phone: "911"}
+               ]
+            },
+            { id:"bn" , label: "Brunei Darussalam", 
+                calls: [
+                   { type: "police", label: "Police", phone: "991"},
+                   { type: "medical", label: "Medical", phone: "991"},
+                   { type: "fire", label: "Fire", phone: "991"}
+               ]
+            },
+            { id:"bo" , label: "Bolivia, Plurinational State of", 
+                calls: [
+                   { type: "police", label: "Police", phone: "110"},
+                   { type: "medical", label: "Medical", phone: "118"},
+                   { type: "fire", label: "Fire", phone: "119"}
+               ]
+            },
+            { id:"br" , label: "Brazil", 
+                calls: [
+                   { type: "police", label: "Police", phone: "190"},
+                   { type: "medical", label: "Medical", phone: "192"},
+                   { type: "fire", label: "Fire", phone: "193"}
+               ]
+            },
+            { id:"bs" , label: "Bahamas", 
+                calls: [
+                   { type: "police", label: "Police", phone: "919"},
+                   { type: "medical", label: "Medical", phone: "919"},
+                   { type: "fire", label: "Fire", phone: "919"}
+               ]
+            },
+            { id:"bt" , label: "Bhutan", 
+                calls: [
+                   { type: "police", label: "Police", phone: "113"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "110"}
+               ]
+            },
+            { id:"bv" , label: "Bouvet Island", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "112"}
+               ]
+            },
+            { id:"bw" , label: "Botswana", 
+                calls: [
+                   { type: "police", label: "Police", phone: "999"},
+                   { type: "medical", label: "Medical", phone: "997"},
+                   { type: "fire", label: "Fire", phone: "998"}
+               ]
+            },
+            { id:"by" , label: "Belarus", 
+                calls: [
+                   { type: "police", label: "Police", phone: "102"},
+                   { type: "medical", label: "Medical", phone: "103"},
+                   { type: "fire", label: "Fire", phone: "101"}
+               ]
+            },
+            { id:"bz" , label: "Belize", 
+                calls: [
+                   { type: "police", label: "Police", phone: "90"},
+                   { type: "medical", label: "Medical", phone: "90"},
+                   { type: "fire", label: "Fire", phone: "90"}
+               ]
+            },
+            { id:"ca" , label: "Canada", 
+                calls: [
+                   { type: "police", label: "Police", phone: "911"},
+                   { type: "medical", label: "Medical", phone: "911"},
+                   { type: "fire", label: "Fire", phone: "911"}
+               ]
+            },
+            { id:"cc" , label: "Cocos (Keeling) Islands     ", 
+                calls: [
+                   {  type: "medical", label: "Medical", phone: "911"}
+               ]
+            },
+            { id:"cf" , label: "Central African Republic", 
+                calls: [
+                   { type: "police", label: "Police", phone: "117       "},
+                   { type: "fire", label: "Fire", phone: "118"}
+               ]
+            },
+            { id:"ch" , label: "Switzerland", 
+                calls: [
+                   { type: "police", label: "Police", phone: "117"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "118"}
+               ]
+            },
+            { id:"ck" , label: "Cook Islands", 
+                calls: [
+                   { type: "police", label: "Police", phone: "999"},
+                   { type: "medical", label: "Medical", phone: "998"},
+                   { type: "fire", label: "Fire", phone: "996"}
+               ]
+            },
+            { id:"cl" , label: "Chile", 
+                calls: [
+                   { type: "police", label: "Police", phone: "133"},
+                   { type: "medical", label: "Medical", phone: "131"},
+                   { type: "fire", label: "Fire", phone: "132"}
+               ]
+            },
+            { id:"cn" , label: "China", 
+                calls: [
+                   { type: "police", label: "Police", phone: "110"},
+                   { type: "medical", label: "Medical", phone: "120"},
+                   { type: "fire", label: "Fire", phone: "119"}
+               ]
+            },
+            { id:"co" , label: "Colombia", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "112"}
+               ]
+            },
+            { id:"cr" , label: "Costa Rica", 
+                calls: [
+                   { type: "police", label: "Police", phone: "911"},
+                   { type: "medical", label: "Medical", phone: "911"},
+                   { type: "fire", label: "Fire", phone: "911"}
+               ]
+            },
+            { id:"cu" , label: "Cuba", 
+                calls: [
+                   { type: "police", label: "Police", phone: "26811"},
+                   { type: "medical", label: "Medical", phone: "26811"},
+                   { type: "fire", label: "Fire", phone: "26811"}
+               ]
+            },
+            { id:"cv" , label: "Cape Verde", 
+                calls: [
+                   { type: "police", label: "Police", phone: "132"},
+                   { type: "medical", label: "Medical", phone: "130"},
+                   { type: "fire", label: "Fire", phone: "131"}
+               ]
+            },
+            { id:"cw" , label: "Curaçao", 
+                calls: [
+                   { type: "police", label: "Police", phone: "444444"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "114"}
+               ]
+            },
+            { id:"cx" , label: "Christmas Island", 
+                calls: [
+                   { type: "police", label: "Police", phone: "000"},
+                   { type: "medical", label: "Medical", phone: "000"},
+                   { type: "fire", label: "Fire", phone: "000"}
+               ]
+            },
+            { id:"cy" , label: "Cyprus", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "112"}
+               ]
+            },
+            { id:"cz" , label: "Czech Republic", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "112"}
+               ]
+            },
+            { id:"de" , label: "Germany", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "112"}
+               ]
+            },
+            { id:"dj" , label: "Djibouti", 
+                calls: [
+                   { type: "police", label: "Police", phone: "17        "},
+                   { type: "fire", label: "Fire", phone: "18"}
+               ]
+            },
+            { id:"dk" , label: "Denmark", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "112"}
+               ]
+            },
+            { id:"dm" , label: "Dominica", 
+                calls: [
+                   { type: "police", label: "Police", phone: "999"},
+                   { type: "medical", label: "Medical", phone: "999"},
+                   { type: "fire", label: "Fire", phone: "999"}
+               ]
+            },
+            { id:"do" , label: "Dominican Republic", 
+                calls: [
+                   { type: "police", label: "Police", phone: "911"},
+                   { type: "medical", label: "Medical", phone: "911"},
+                   { type: "fire", label: "Fire", phone: "911"}
+               ]
+            },
+            { id:"dz" , label: "Algeria", 
+                calls: [
+                   { type: "police", label: "Police", phone: "171"},
+                   { type: "medical", label: "Medical", phone: "14"},
+                   { type: "fire", label: "Fire", phone: "14"}
+               ]
+            },
+            { id:"ec" , label: "Ecuador", 
+                calls: [
+                   { type: "police", label: "Police", phone: "911"},
+                   { type: "medical", label: "Medical", phone: "911"},
+                   { type: "fire", label: "Fire", phone: "911"}
+               ]
+            },
+            { id:"ee" , label: "Estonia", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "112"}
+               ]
+            },
+            { id:"eg" , label: "Egypt", 
+                calls: [
+                   { type: "police", label: "Police", phone: "122"},
+                   { type: "medical", label: "Medical", phone: "123"},
+                   { type: "fire", label: "Fire", phone: "180"}
+               ]
+            },
+            { id:"eh" , label: "Western Sahara      ", 
+                calls: [
+               
+                   { type: "medical", label: "Medical", phone: "150     "}
+               ]
+            },
+            { id:"er" , label: "Eritrea", 
+                calls: [
+                   { type: "police", label: "Police", phone: "127799"},
+                   { type: "medical", label: "Medical", phone: "124422      "}
+               ]
+            },
+            { id:"es" , label: "Spain", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "112"}
+               ]
+            },
+            { id:"fi" , label: "Finland", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "112"}
+               ]
+            },
+            { id:"fj" , label: "Fiji", 
+                calls: [
+                   { type: "police", label: "Police", phone: "911"},
+                   { type: "medical", label: "Medical", phone: "911"},
+                   { type: "fire", label: "Fire", phone: "9170"}
+               ]
+            },
+            { id:"fk" , label: "Falkland Islands (Malvinas)", 
+                calls: [
+                   { type: "police", label: "Police", phone: "999"},
+                   { type: "medical", label: "Medical", phone: "999"},
+                   { type: "fire", label: "Fire", phone: "999"}
+               ]
+            },
+            { id:"fo" , label: "Faroe Islands", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "112"}
+               ]
+            },
+            { id:"fr" , label: "France", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "112"}
+               ]
+            },
+            { id:"ga" , label: "Gabon", 
+                calls: [
+                   { type: "police", label: "Police", phone: "1730"},
+                   { type: "medical", label: "Medical", phone: "1300"},
+                   { type: "fire", label: "Fire", phone: "18"}
+               ]
+            },
+            { id:"gb" , label: "United Kingdom", 
+                calls: [
+                   { type: "police", label: "Police", phone: "999"},
+                   { type: "medical", label: "Medical", phone: "999"},
+                   { type: "fire", label: "Fire", phone: "999"}
+               ]
+            },
+            { id:"gd" , label: "Grenada", 
+                calls: [
+                   { type: "police", label: "Police", phone: "911"},
+                   { type: "medical", label: "Medical", phone: "911"},
+                   { type: "fire", label: "Fire", phone: "911"}
+               ]
+            },
+            { id:"ge" , label: "Georgia", 
+                calls: [
+                   { type: "police", label: "Police", phone: "022"},
+                   { type: "medical", label: "Medical", phone: "033"},
+                   { type: "fire", label: "Fire", phone: "011"}
+               ]
+            },
+            { id:"gf" , label: "French Guiana", 
+                calls: [
+                   { type: "police", label: "Police", phone: "17"},
+                   { type: "medical", label: "Medical", phone: "15"},
+                   { type: "fire", label: "Fire", phone: "18"}
+               ]
+            },
+            { id:"gg" , label: "Guernsey", 
+                calls: [
+                   { type: "police", label: "Police", phone: "999"},
+                   { type: "medical", label: "Medical", phone: "999"},
+                   { type: "fire", label: "Fire", phone: "999"}
+               ]
+            },
+            { id:"gh" , label: "Ghana", 
+                calls: [
+                   { type: "police", label: "Police", phone: "191"},
+                   { type: "medical", label: "Medical", phone: "193"},
+                   { type: "fire", label: "Fire", phone: "192"}
+               ]
+            },
+            { id:"gi" , label: "Gibraltar", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "112"}
+               ]
+            },
+            { id:"gl" , label: "Greenland", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "112"}
+               ]
+            },
+            { id:"gm" , label: "Gambia", 
+                calls: [
+                   { type: "police", label: "Police", phone: "17"},
+                   { type: "medical", label: "Medical", phone: "16"},
+                   { type: "fire", label: "Fire", phone: "18"}
+               ]
+            },
+            { id:"gp" , label: "Guadeloupe", 
+                calls: [
+                   { type: "police", label: "Police", phone: "15"},
+                   { type: "medical", label: "Medical", phone: "15"},
+                   { type: "fire", label: "Fire", phone: "15"}
+               ]
+            },
+            { id:"gq" , label: "Equatorial Guinea", 
+                calls: [
+                   { type: "police", label: "Police", phone: "2878"},
+                   { type: "medical", label: "Medical", phone: "3101"},
+                   { type: "fire", label: "Fire", phone: "2737"}
+               ]
+            },
+            { id:"gr" , label: "Greece", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "112"}
+               ]
+            },
+            { id:"gt" , label: "Guatemala", 
+                calls: [
+                   { type: "police", label: "Police", phone: "110"},
+                   { type: "medical", label: "Medical", phone: "120"},
+                   { type: "fire", label: "Fire", phone: "123"}
+               ]
+            },
+            { id:"gu" , label: "Guam", 
+                calls: [
+                   { type: "police", label: "Police", phone: "911"},
+                   { type: "medical", label: "Medical", phone: "911"},
+                   { type: "fire", label: "Fire", phone: "911"}
+               ]
+            },
+            { id:"gw" , label: "Guinea-Bissau", 
+                calls: [
+                   { type: "police", label: "Police", phone: "117       "},
+                   { type: "fire", label: "Fire", phone: "118"}
+               ]
+            },
+            { id:"gy" , label: "Guyana", 
+                calls: [
+                   { type: "police", label: "Police", phone: "911"},
+                   { type: "medical", label: "Medical", phone: "913"},
+                   { type: "fire", label: "Fire", phone: "912"}
+               ]
+            },
+            { id:"hk" , label: "Hong Kong", 
+                calls: [
+                   { type: "police", label: "Police", phone: "999"},
+                   { type: "medical", label: "Medical", phone: "999"},
+                   { type: "fire", label: "Fire", phone: "999"}
+               ]
+            },
+            { id:"hn" , label: "Honduras", 
+                calls: [
+                   { type: "police", label: "Police", phone: "199"},
+                   { type: "medical", label: "Medical", phone: "199"},
+                   { type: "fire", label: "Fire", phone: "199"}
+               ]
+            },
+            { id:"hr" , label: "Croatia", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "112"}
+               ]
+            },
+            { id:"hu" , label: "Hungary", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "112"}
+               ]
+            },
+            { id:"id" , label: "Indonesia", 
+                calls: [
+                   { type: "police", label: "Police", phone: "110"},
+                   { type: "medical", label: "Medical", phone: "118"},
+                   { type: "fire", label: "Fire", phone: "113"}
+               ]
+            },
+            { id:"ie" , label: "Ireland", 
+                calls: [
+                   { type: "police", label: "Police", phone: "999"},
+                   { type: "medical", label: "Medical", phone: "999"},
+                   { type: "fire", label: "Fire", phone: "999"}
+               ]
+            },
+            { id:"il" , label: "Israel", 
+                calls: [
+                   { type: "police", label: "Police", phone: "100"},
+                   { type: "medical", label: "Medical", phone: "101"},
+                   { type: "fire", label: "Fire", phone: "102"}
+               ]
+            },
+            { id:"im" , label: "Isle of Man", 
+                calls: [
+                   { type: "police", label: "Police", phone: "999"},
+                   { type: "medical", label: "Medical", phone: "999"},
+                   { type: "fire", label: "Fire", phone: "999"}
+               ]
+            },
+            { id:"in" , label: "India", 
+                calls: [
+                   { type: "police", label: "Police", phone: "100"},
+                   { type: "medical", label: "Medical", phone: "102"},
+                   { type: "fire", label: "Fire", phone: "101"}
+               ]
+            },
+            { id:"io" , label: "British Indian Ocean Territory", 
+                calls: [
+                   { type: "police", label: "Police", phone: "999"},
+                   { type: "medical", label: "Medical", phone: "999"},
+                   { type: "fire", label: "Fire", phone: "999"}
+               ]
+            },
+            { id:"iq" , label: "Iraq", 
+                calls: [
+                   { type: "police", label: "Police", phone: "122"},
+                   { type: "medical", label: "Medical", phone: "122"},
+                   { type: "fire", label: "Fire", phone: "122"}
+               ]
+            },
+            { id:"ir" , label: "Iran, Islamic Republic of", 
+                calls: [
+                   { type: "police", label: "Police", phone: "110"},
+                   { type: "medical", label: "Medical", phone: "115"},
+                   { type: "fire", label: "Fire", phone: "125"}
+               ]
+            },
+            { id:"is" , label: "Iceland", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "112"}
+               ]
+            },
+            { id:"it" , label: "Italy", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "112"}
+               ]
+            },
+            { id:"je" , label: "Jersey", 
+                calls: [
+                   { type: "police", label: "Police", phone: "999"},
+                   { type: "medical", label: "Medical", phone: "999"},
+                   { type: "fire", label: "Fire", phone: "999"}
+               ]
+            },
+            { id:"jm" , label: "Jamaica", 
+                calls: [
+                   { type: "police", label: "Police", phone: "119"},
+                   { type: "medical", label: "Medical", phone: "110"},
+                   { type: "fire", label: "Fire", phone: "110"}
+               ]
+            },
+            { id:"jo" , label: "Jordan", 
+                calls: [
+                   { type: "police", label: "Police", phone: "911"},
+                   { type: "medical", label: "Medical", phone: "911"},
+                   { type: "fire", label: "Fire", phone: "911"}
+               ]
+            },
+            { id:"jp" , label: "Japan", 
+                calls: [
+                   { type: "police", label: "Police", phone: "110"},
+                   { type: "medical", label: "Medical", phone: "119"},
+                   { type: "fire", label: "Fire", phone: "119"}
+               ]
+            },
+            { id:"ke" , label: "Kenya", 
+                calls: [
+                   { type: "police", label: "Police", phone: "999"},
+                   { type: "medical", label: "Medical", phone: "999"},
+                   { type: "fire", label: "Fire", phone: "999"}
+               ]
+            },
+            { id:"kg" , label: "Kyrgyzstan", 
+                calls: [
+                   { type: "police", label: "Police", phone: "103"},
+                   { type: "medical", label: "Medical", phone: "103"},
+                   { type: "fire", label: "Fire", phone: "103"}
+               ]
+            },
+            { id:"kh" , label: "Cambodia", 
+                calls: [
+                   { type: "police", label: "Police", phone: "117"},
+                   { type: "medical", label: "Medical", phone: "119"},
+                   { type: "fire", label: "Fire", phone: "118"}
+               ]
+            },
+            { id:"ki" , label: "Kiribati        ", 
+                  calls: [
+                   { type: "medical", label: "Medical", phone: "994     "}
+               ]
+            },
+            { id:"km" , label: "Comoros", 
+                calls: [
+                   { type: "police", label: "Police", phone: "17                "}
+               ]
+            },
+            { id:"kn" , label: "Saint Kitts and Nevis", 
+                calls: [
+                   { type: "police", label: "Police", phone: "911"},
+                   { type: "medical", label: "Medical", phone: "911"},
+                   { type: "fire", label: "Fire", phone: "911"}
+               ]
+            },
+            { id:"kp" , label: "Korea, Democratic People's Republic of", 
+                calls: [
+                   { type: "police", label: "Police", phone: "119"},
+                   { type: "medical", label: "Medical", phone: "119"},
+                   { type: "fire", label: "Fire", phone: "119"}
+               ]
+            },
+            { id:"kr" , label: "Korea, Republic of", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "119"}
+               ]
+            },
+            { id:"kw" , label: "Kuwait", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "112"}
+               ]
+            },
+            { id:"ky" , label: "Cayman Islands", 
+                calls: [
+                   { type: "police", label: "Police", phone: "911"},
+                   { type: "medical", label: "Medical", phone: "911"},
+                   { type: "fire", label: "Fire", phone: "911"}
+               ]
+            },
+            { id:"kz" , label: "Kazakhstan", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "112"}
+               ]
+            },
+            { id:"la" , label: "Lao People's Democratic Republic", 
+                calls: [
+                   { type: "police", label: "Police", phone: "191"},
+                   { type: "medical", label: "Medical", phone: "195"},
+                   { type: "fire", label: "Fire", phone: "190"}
+               ]
+            },
+            { id:"lb" , label: "Lebanon", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "140"},
+                   { type: "fire", label: "Fire", phone: "175"}
+               ]
+            },
+            { id:"lc" , label: "Saint Lucia", 
+                calls: [
+                   { type: "police", label: "Police", phone: "999"},
+                   { type: "medical", label: "Medical", phone: "911"},
+                   { type: "fire", label: "Fire", phone: "911"}
+               ]
+            },
+            { id:"li" , label: "Liechtenstein", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "112"}
+               ]
+            },
+            { id:"lk" , label: "Sri Lanka", 
+                calls: [
+                   { type: "police", label: "Police", phone: "119"},
+                   { type: "medical", label: "Medical", phone: "110"},
+                   { type: "fire", label: "Fire", phone: "111"}
+               ]
+            },
+            { id:"lr" , label: "Liberia", 
+                calls: [
+                   { type: "police", label: "Police", phone: "911"},
+                   { type: "medical", label: "Medical", phone: "911"},
+                   { type: "fire", label: "Fire", phone: "911"}
+               ]
+            },
+            { id:"ls" , label: "Lesotho", 
+                calls: [
+                   { type: "police", label: "Police", phone: "123"},
+                   { type: "medical", label: "Medical", phone: "121"},
+                   { type: "fire", label: "Fire", phone: "122"}
+               ]
+            },
+            { id:"lt" , label: "Lithuania", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "112"}
+               ]
+            },
+            { id:"lu" , label: "Luxembourg", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "112"}
+               ]
+            },
+            { id:"lv" , label: "Latvia", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "112"}
+               ]
+            },
+            { id:"ly" , label: "Libya", 
+                calls: [
+                   { type: "police", label: "Police", phone: "193"},
+                   { type: "medical", label: "Medical", phone: "193"},
+                   { type: "fire", label: "Fire", phone: "193"}
+               ]
+            },
+            { id:"ma" , label: "Morocco", 
+                calls: [
+                   { type: "police", label: "Police", phone: "177"},
+                   { type: "medical", label: "Medical", phone: "15"},
+                   { type: "fire", label: "Fire", phone: "15"}
+               ]
+            },
+            { id:"mc" , label: "Monaco", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "112"}
+               ]
+            },
+            { id:"md" , label: "Moldova, Republic of", 
+                calls: [
+                   { type: "police", label: "Police", phone: "902"},
+                   { type: "medical", label: "Medical", phone: "903"},
+                   { type: "fire", label: "Fire", phone: "901"}
+               ]
+            },
+            { id:"me" , label: "Montenegro", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "112"}
+               ]
+            },
+            { id:"mf" , label: "Saint Martin (French part)", 
+                calls: [
+                   { type: "police", label: "Police", phone: "17"},
+                   { type: "medical", label: "Medical", phone: "15"},
+                   { type: "fire", label: "Fire", phone: "18"}
+               ]
+            },
+            { id:"mg" , label: "Madagascar", 
+                calls: [
+                   { type: "police", label: "Police", phone: "117"},
+                   { type: "medical", label: "Medical", phone: "117"},
+                   { type: "fire", label: "Fire", phone: "118"}
+               ]
+            },
+            { id:"mh" , label: "Marshall Islands", 
+                calls: [
+                   { type: "police", label: "Police", phone: "6258666"},
+                   { type: "medical", label: "Medical", phone: "6254111     "}
+               ]
+            },
+            { id:"mk" , label: "Macedonia, the former Yugoslav Republic of", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "112"}
+               ]
+            },
+            { id:"ml" , label: "Mali", 
+                calls: [
+                   { type: "police", label: "Police", phone: "17"},
+                   { type: "medical", label: "Medical", phone: "15"},
+                   { type: "fire", label: "Fire", phone: "18"}
+               ]
+            },
+            { id:"mm" , label: "Myanmar", 
+                calls: [
+                   { type: "police", label: "Police", phone: "191"},
+                   { type: "medical", label: "Medical", phone: "191"},
+                   { type: "fire", label: "Fire", phone: "191"}
+               ]
+            },
+            { id:"mn" , label: "Mongolia", 
+                calls: [
+                   { type: "police", label: "Police", phone: "102"},
+                   { type: "medical", label: "Medical", phone: "103"},
+                   { type: "fire", label: "Fire", phone: "101"}
+               ]
+            },
+            { id:"mo" , label: "Macao", 
+                calls: [
+                   { type: "police", label: "Police", phone: "999"},
+                   { type: "medical", label: "Medical", phone: "999"},
+                   { type: "fire", label: "Fire", phone: "999"}
+               ]
+            },
+            { id:"mp" , label: "Northern Mariana Islands", 
+                calls: [
+                   { type: "police", label: "Police", phone: "911"},
+                   { type: "medical", label: "Medical", phone: "911     "}
+               ]
+            },
+            { id:"mq" , label: "Martinique", 
+                calls: [
+                   { type: "police", label: "Police", phone: "17"},
+                   { type: "medical", label: "Medical", phone: "15"},
+                   { type: "fire", label: "Fire", phone: "18"}
+               ]
+            },
+            { id:"mr" , label: "Mauritania", 
+                calls: [
+                   { type: "police", label: "Police", phone: "117"},
+                   { type: "medical", label: "Medical", phone: "117"},
+                   { type: "fire", label: "Fire", phone: "118"}
+               ]
+            },
+            { id:"ms" , label: "Montserrat", 
+                calls: [
+                   { type: "police", label: "Police", phone: "999"},
+                   { type: "medical", label: "Medical", phone: "911"},
+                   { type: "fire", label: "Fire", phone: "911"}
+               ]
+            },
+            { id:"mt" , label: "Malta", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "112"}
+               ]
+            },
+            { id:"mu" , label: "Mauritius", 
+                calls: [
+                   { type: "police", label: "Police", phone: "9999"},
+                   { type: "medical", label: "Medical", phone: "114"},
+                   { type: "fire", label: "Fire", phone: "115"}
+               ]
+            },
+            { id:"mv" , label: "Maldives", 
+                calls: [
+                   { type: "police", label: "Police", phone: "102"},
+                   { type: "medical", label: "Medical", phone: "102"},
+                   { type: "fire", label: "Fire", phone: "102"}
+               ]
+            },
+            { id:"mw" , label: "Malawi", 
+                calls: [
+                   { type: "police", label: "Police", phone: "997"},
+                   { type: "medical", label: "Medical", phone: "998"},
+                   { type: "fire", label: "Fire", phone: "999"}
+               ]
+            },
+            { id:"mx" , label: "Mexico", 
+                calls: [
+                   { type: "police", label: "Police", phone: "066"},
+                   { type: "medical", label: "Medical", phone: "065"},
+                   { type: "fire", label: "Fire", phone: "068"}
+               ]
+            },
+            { id:"my" , label: "Malaysia", 
+                calls: [
+                   { type: "police", label: "Police", phone: "999"},
+                   { type: "medical", label: "Medical", phone: "999"},
+                   { type: "fire", label: "Fire", phone: "999"}
+               ]
+            },
+            { id:"mz" , label: "Mozambique", 
+                calls: [
+                   { type: "police", label: "Police", phone: "119"},
+                   { type: "medical", label: "Medical", phone: "117"},
+                   { type: "fire", label: "Fire", phone: "198"}
+               ]
+            },
+            { id:"na" , label: "Namibia", 
+                calls: [
+                   { type: "police", label: "Police", phone: "1011"},
+                   { type: "medical", label: "Medical", phone: "2032276"},
+                   { type: "fire", label: "Fire", phone: "2032270"}
+               ]
+            },
+            { id:"nc" , label: "New Caledonia", 
+                calls: [
+                   { type: "police", label: "Police", phone: "17"},
+                   { type: "medical", label: "Medical", phone: "18"},
+                   { type: "fire", label: "Fire", phone: "18"}
+               ]
+            },
+            { id:"ne" , label: "Niger", 
+                calls: [
+                   { type: "police", label: "Police", phone: "17"},
+                   { type: "medical", label: "Medical", phone: "723141"},
+                   { type: "fire", label: "Fire", phone: "18"}
+               ]
+            },
+            { id:"nf" , label: "Norfolk Island", 
+                calls: [
+                   { type: "police", label: "Police", phone: "977"},
+                   { type: "medical", label: "Medical", phone: "911"},
+                   { type: "fire", label: "Fire", phone: "955"}
+               ]
+            },
+            { id:"ng" , label: "Nigeria", 
+                calls: [
+                   { type: "police", label: "Police", phone: "199"},
+                   { type: "medical", label: "Medical", phone: "199"},
+                   { type: "fire", label: "Fire", phone: "199"}
+               ]
+            },
+            { id:"ni" , label: "Nicaragua", 
+                calls: [
+                   { type: "police", label: "Police", phone: "118"},
+                   { type: "medical", label: "Medical", phone: "118"},
+                   { type: "fire", label: "Fire", phone: "118"}
+               ]
+            },
+            { id:"nl" , label: "Netherlands", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "112"}
+               ]
+            },
+            { id:"no" , label: "Norway", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "113"},
+                   { type: "fire", label: "Fire", phone: "110"}
+               ]
+            },
+            { id:"np" , label: "Nepal", 
+                calls: [
+                   { type: "police", label: "Police", phone: "100"},
+                   { type: "medical", label: "Medical", phone: "102"},
+                   { type: "fire", label: "Fire", phone: "101"}
+               ]
+            },
+            { id:"nr" , label: "Nauru", 
+                calls: [
+                   { type: "police", label: "Police", phone: "110"},
+                   { type: "medical", label: "Medical", phone: "117"},
+                   { type: "fire", label: "Fire", phone: "119"}
+               ]
+            },
+            { id:"nu" , label: "Niue", 
+                calls: [
+                   { type: "police", label: "Police", phone: "999"},
+                   { type: "medical", label: "Medical", phone: "999"},
+                   { type: "fire", label: "Fire", phone: "999"}
+               ]
+            },
+            { id:"nz" , label: "New Zealand", 
+                calls: [
+                   { type: "police", label: "Police", phone: "111"},
+                   { type: "medical", label: "Medical", phone: "111"},
+                   { type: "fire", label: "Fire", phone: "111"}
+               ]
+            },
+            { id:"om" , label: "Oman", 
+                calls: [
+                   { type: "police", label: "Police", phone: "9999"},
+                   { type: "medical", label: "Medical", phone: "9999"},
+                   { type: "fire", label: "Fire", phone: "9999"}
+               ]
+            },
+            { id:"pa" , label: "Panama", 
+                calls: [
+                   { type: "police", label: "Police", phone: "911"},
+                   { type: "medical", label: "Medical", phone: "911"},
+                   { type: "fire", label: "Fire", phone: "911"}
+               ]
+            },
+            { id:"pe" , label: "Peru", 
+                calls: [
+                   { type: "police", label: "Police", phone: "105"},
+                   { type: "medical", label: "Medical", phone: "117"},
+                   { type: "fire", label: "Fire", phone: "116"}
+               ]
+            },
+            { id:"pf" , label: "French Polynesia", 
+                calls: [
+                   { type: "police", label: "Police", phone: "17"},
+                   { type: "medical", label: "Medical", phone: "15"},
+                   { type: "fire", label: "Fire", phone: "18"}
+               ]
+            },
+            { id:"pg" , label: "Papua New Guinea", 
+                calls: [
+                   { type: "police", label: "Police", phone: "000"},
+                   { type: "medical", label: "Medical", phone: "0"},
+                   { type: "fire", label: "Fire", phone: "110"}
+               ]
+            },
+            { id:"ph" , label: "Philippines", 
+                calls: [
+                   { type: "police", label: "Police", phone: "117"},
+                   { type: "medical", label: "Medical", phone: "117"},
+                   { type: "fire", label: "Fire", phone: "117"}
+               ]
+            },
+            { id:"pk" , label: "Pakistan", 
+                calls: [
+                   { type: "police", label: "Police", phone: "15"},
+                   { type: "medical", label: "Medical", phone: "115"},
+                   { type: "fire", label: "Fire", phone: "16"}
+               ]
+            },
+            { id:"pl" , label: "Poland", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "112"}
+               ]
+            },
+            { id:"pm" , label: "Saint Pierre and Miquelon", 
+                calls: [
+                   { type: "police", label: "Police", phone: "17"},
+                   { type: "medical", label: "Medical", phone: "15"},
+                   { type: "fire", label: "Fire", phone: "18"}
+               ]
+            },
+            { id:"pr" , label: "Puerto Rico", 
+                calls: [
+                   { type: "police", label: "Police", phone: "911"},
+                   { type: "medical", label: "Medical", phone: "911"},
+                   { type: "fire", label: "Fire", phone: "911"}
+               ]
+            },
+            { id:"ps" , label: "Palestinian Territory, Occupied", 
+                calls: [
+                   { type: "police", label: "Police", phone: "101"},
+                   { type: "medical", label: "Medical", phone: "101"},
+                   { type: "fire", label: "Fire", phone: "101"}
+               ]
+            },
+            { id:"pt" , label: "Portugal", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "112"}
+               ]
+            },
+            { id:"pw" , label: "Palau", 
+                calls: [
+                   { type: "police", label: "Police", phone: "911"},
+                   { type: "medical", label: "Medical", phone: "911"},
+                   { type: "fire", label: "Fire", phone: "911"}
+               ]
+            },
+            { id:"py" , label: "Paraguay", 
+                calls: [
+                   { type: "police", label: "Police", phone: "911"},
+                   { type: "medical", label: "Medical", phone: "911"},
+                   { type: "fire", label: "Fire", phone: "911"}
+               ]
+            },
+            { id:"qa" , label: "Qatar", 
+                calls: [
+                   { type: "police", label: "Police", phone: "999"},
+                   { type: "medical", label: "Medical", phone: "999"},
+                   { type: "fire", label: "Fire", phone: "999"}
+               ]
+            },
+            { id:"re" , label: "Réunion", 
+                calls: [
+                   { type: "police", label: "Police", phone: "17"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "18"}
+               ]
+            },
+            { id:"ro" , label: "Romania", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "112"}
+               ]
+            },
+            { id:"rs" , label: "Serbia", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "112"}
+               ]
+            },
+            { id:"ru" , label: "Russian Federation", 
+                calls: [
+                   { type: "police", label: "Police", phone: "911"},
+                   { type: "medical", label: "Medical", phone: "911"},
+                   { type: "fire", label: "Fire", phone: "911"}
+               ]
+            },
+            { id:"rw" , label: "Rwanda", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "576466"},
+                   { type: "fire", label: "Fire", phone: "86328"}
+               ]
+            },
+            { id:"sa" , label: "Saudi Arabia", 
+                calls: [
+                   { type: "police", label: "Police", phone: "999"},
+                   { type: "medical", label: "Medical", phone: "997"},
+                   { type: "fire", label: "Fire", phone: "998"}
+               ]
+            },
+            { id:"sb" , label: "Solomon Islands", 
+                calls: [
+                   { type: "police", label: "Police", phone: "999"},
+                   { type: "medical", label: "Medical", phone: "999"},
+                   { type: "fire", label: "Fire", phone: "999"}
+               ]
+            },
+            { id:"sc" , label: "Seychelles", 
+                calls: [
+                   { type: "police", label: "Police", phone: "999"},
+                   { type: "medical", label: "Medical", phone: "999"},
+                   { type: "fire", label: "Fire", phone: "999"}
+               ]
+            },
+            { id:"sd" , label: "Sudan", 
+                calls: [
+                   { type: "police", label: "Police", phone: "999"},
+                   { type: "medical", label: "Medical", phone: "999"},
+                   { type: "fire", label: "Fire", phone: "999"}
+               ]
+            },
+            { id:"se" , label: "Sweden", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "112"}
+               ]
+            },
+            { id:"sg" , label: "Singapore", 
+                calls: [
+                   { type: "police", label: "Police", phone: "999"},
+                   { type: "medical", label: "Medical", phone: "995"},
+                   { type: "fire", label: "Fire", phone: "995"}
+               ]
+            },
+            { id:"sh" , label: "Saint Helena, Ascension and Tristan da Cunha", 
+                calls: [
+                   { type: "police", label: "Police", phone: "999"},
+                   { type: "medical", label: "Medical", phone: "911"},
+                   { type: "fire", label: "Fire", phone: "999"}
+               ]
+            },
+            { id:"si" , label: "Slovenia", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "112"}
+               ]
+            },
+            { id:"sj" , label: "Svalbard and Jan Mayen", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "112"}
+               ]
+            },
+            { id:"sk" , label: "Slovakia", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "112"}
+               ]
+            },
+            { id:"sl" , label: "Sierra Leone", 
+                calls: [
+                   { type: "police", label: "Police", phone: "019"},
+                   { type: "medical", label: "Medical", phone: "999"},
+                   { type: "fire", label: "Fire", phone: "019"}
+               ]
+            },
+            { id:"sm" , label: "San Marino", 
+                calls: [
+                   { type: "police", label: "Police", phone: "113"},
+                   { type: "medical", label: "Medical", phone: "118"},
+                   { type: "fire", label: "Fire", phone: "115"}
+               ]
+            },
+            { id:"sn" , label: "Senegal", 
+                calls: [
+                   { type: "police", label: "Police", phone: "800"},
+                   { type: "medical", label: "Medical", phone: "800"},
+                   { type: "fire", label: "Fire", phone: "800"}
+               ]
+            },
+            { id:"so" , label: "Somalia     ", 
+                calls: [
+                   { type: "medical", label: "Medical", phone: "777     "}
+               ]
+            },
+            { id:"sr" , label: "Suriname", 
+                calls: [
+                   { type: "police", label: "Police", phone: "115"},
+                   { type: "medical", label: "Medical", phone: "115"},
+                   { type: "fire", label: "Fire", phone: "115"}
+               ]
+            },
+            { id:"st" , label: "Sao Tome and Principe", 
+                calls: [
+                   { type: "police", label: "Police", phone: "222"},
+                   { type: "medical", label: "Medical", phone: "222"},
+                   { type: "fire", label: "Fire", phone: "222"}
+               ]
+            },
+            { id:"sv" , label: "El Salvador", 
+                calls: [
+                   { type: "police", label: "Police", phone: "911"},
+                   { type: "medical", label: "Medical", phone: "911"},
+                   { type: "fire", label: "Fire", phone: "911"}
+               ]
+            },
+            { id:"sx" , label: "Sint Maarten (Dutch part)", 
+                calls: [
+                   { type: "police", label: "Police", phone: "911"},
+                   { type: "medical", label: "Medical", phone: "911"},
+                   { type: "fire", label: "Fire", phone: "911"}
+               ]
+            },
+            { id:"sy" , label: "Syrian Arab Republic", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "110"},
+                   { type: "fire", label: "Fire", phone: "113"}
+               ]
+            },
+            { id:"sz" , label: "Swaziland", 
+                calls: [
+                   { type: "police", label: "Police", phone: "999"},
+                   { type: "medical", label: "Medical", phone: "999"},
+                   { type: "fire", label: "Fire", phone: "999"}
+               ]
+            },
+            { id:"tc" , label: "Turks and Caicos Islands", 
+                calls: [
+                   { type: "police", label: "Police", phone: "999"},
+                   { type: "medical", label: "Medical", phone: "999"},
+                   { type: "fire", label: "Fire", phone: "999"}
+               ]
+            },
+            { id:"td" , label: "Chad", 
+                calls: [
+                   { type: "police", label: "Police", phone: "17        "},
+                   { type: "fire", label: "Fire", phone: "18"}
+               ]
+            },
+            { id:"tg" , label: "Togo", 
+                calls: [
+                   { type: "police", label: "Police", phone: "117"},
+                   { type: "medical", label: "Medical", phone: "242"},
+                   { type: "fire", label: "Fire", phone: "118"}
+               ]
+            },
+            { id:"th" , label: "Thailand", 
+                calls: [
+                   { type: "police", label: "Police", phone: "191"},
+                   { type: "medical", label: "Medical", phone: "1669"},
+                   { type: "fire", label: "Fire", phone: "199"}
+               ]
+            },
+            { id:"tj" , label: "Tajikistan", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "112"}
+               ]
+            },
+            { id:"tl" , label: "Timor-Leste", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "112"}
+               ]
+            },
+            { id:"tm" , label: "Turkmenistan", 
+                calls: [
+                   { type: "police", label: "Police", phone: "03"},
+                   { type: "medical", label: "Medical", phone: "03"},
+                   { type: "fire", label: "Fire", phone: "03"}
+               ]
+            },
+            { id:"tn" , label: "Tunisia", 
+                calls: [
+                   { type: "police", label: "Police", phone: "197"},
+                   { type: "medical", label: "Medical", phone: "190"},
+                   { type: "fire", label: "Fire", phone: "198"}
+               ]
+            },
+            { id:"to" , label: "Tonga", 
+                calls: [
+                   { type: "police", label: "Police", phone: "911"},
+                   { type: "medical", label: "Medical", phone: "911"},
+                   { type: "fire", label: "Fire", phone: "911"}
+               ]
+            },
+            { id:"tr" , label: "Turkey", 
+                calls: [
+                   { type: "police", label: "Police", phone: "155"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "110"}
+               ]
+            },
+            { id:"tt" , label: "Trinidad and Tobago", 
+                calls: [
+                   { type: "police", label: "Police", phone: "999"},
+                   { type: "medical", label: "Medical", phone: "990"},
+                   { type: "fire", label: "Fire", phone: "990"}
+               ]
+            },
+            { id:"tv" , label: "Tuvalu", 
+                calls: [
+                   { type: "police", label: "Police", phone: "911"},
+                   { type: "medical", label: "Medical", phone: "911"},
+                   { type: "fire", label: "Fire", phone: "911"}
+               ]
+            },
+            { id:"tw" , label: "Taiwan, Province of China", 
+                calls: [
+                   { type: "police", label: "Police", phone: "110"},
+                   { type: "medical", label: "Medical", phone: "119"},
+                   { type: "fire", label: "Fire", phone: "119"}
+               ]
+            },
+            { id:"tz" , label: "Tanzania, United Republic of", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "112"}
+               ]
+            },
+            { id:"ua" , label: "Ukraine", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "112"}
+               ]
+            },
+            { id:"ug" , label: "Uganda", 
+                calls: [
+                   { type: "police", label: "Police", phone: "999"},
+                   { type: "medical", label: "Medical", phone: "999"},
+                   { type: "fire", label: "Fire", phone: "999"}
+               ]
+            },
+            { id:"us" , label: "United States", 
+                calls: [
+                   { type: "police", label: "Police", phone: "911"},
+                   { type: "medical", label: "Medical", phone: "911"},
+                   { type: "fire", label: "Fire", phone: "911"}
+               ]
+            },
+            { id:"uy" , label: "Uruguay", 
+                calls: [
+                   { type: "police", label: "Police", phone: "911"},
+                   { type: "medical", label: "Medical", phone: "911"},
+                   { type: "fire", label: "Fire", phone: "911"}
+               ]
+            },
+            { id:"uz" , label: "Uzbekistan", 
+                calls: [
+                   { type: "police", label: "Police", phone: "02"},
+                   { type: "medical", label: "Medical", phone: "03"},
+                   { type: "fire", label: "Fire", phone: "01"}
+               ]
+            },
+            { id:"va" , label: "Holy See (Vatican City State)", 
+                calls: [
+                   { type: "police", label: "Police", phone: "113"},
+                   { type: "medical", label: "Medical", phone: "118"},
+                   { type: "fire", label: "Fire", phone: "115"}
+               ]
+            },
+            { id:"vc" , label: "Saint Vincent and the Grenadines", 
+                calls: [
+                   { type: "police", label: "Police", phone: "911"},
+                   { type: "medical", label: "Medical", phone: "911"},
+                   { type: "fire", label: "Fire", phone: "911"}
+               ]
+            },
+            { id:"ve" , label: "Venezuela, Bolivarian Republic of", 
+                calls: [
+                   { type: "police", label: "Police", phone: "171"},
+                   { type: "medical", label: "Medical", phone: "171"},
+                   { type: "fire", label: "Fire", phone: "171"}
+               ]
+            },
+            { id:"vg" , label: "Virgin Islands, British", 
+                calls: [
+                   { type: "police", label: "Police", phone: "911"},
+                   { type: "medical", label: "Medical", phone: "999"},
+                   { type: "fire", label: "Fire", phone: "4945413"}
+               ]
+            },
+            { id:"vi" , label: "Virgin Islands, U.S.", 
+                calls: [
+                   { type: "police", label: "Police", phone: "911"},
+                   { type: "medical", label: "Medical", phone: "911"},
+                   { type: "fire", label: "Fire", phone: "911"}
+               ]
+            },
+            { id:"vn" , label: "Viet Nam", 
+                calls: [
+                   { type: "police", label: "Police", phone: "113"},
+                   { type: "medical", label: "Medical", phone: "115"},
+                   { type: "fire", label: "Fire", phone: "114"}
+               ]
+            },
+            { id:"vu" , label: "Vanuatu", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "112"}
+               ]
+            },
+            { id:"wf" , label: "Wallis and Futuna", 
+                calls: [
+                   { type: "police", label: "Police", phone: "17"},
+                   { type: "medical", label: "Medical", phone: "15"},
+                   { type: "fire", label: "Fire", phone: "18"}
+               ]
+            },
+            { id:"ws" , label: "Samoa", 
+                calls: [
+                   { type: "police", label: "Police", phone: "999"},
+                   { type: "medical", label: "Medical", phone: "999"},
+                   { type: "fire", label: "Fire", phone: "999"}
+               ]
+            },
+            { id:"ye" , label: "Yemen", 
+                calls: [
+                   { type: "police", label: "Police", phone: "194"},
+                   { type: "medical", label: "Medical", phone: "191"},
+                   { type: "fire", label: "Fire", phone: "191"}
+               ]
+            },
+            { id:"yt" , label: "Mayotte     ", 
+                calls: [
+                   { type: "medical", label: "Medical", phone: "15      "}
+               ]
+            },
+            { id:"za" , label: "South Africa", 
+                calls: [
+                   { type: "police", label: "Police", phone: "10111"},
+                   { type: "medical", label: "Medical", phone: "10177"},
+                   { type: "fire", label: "Fire", phone: "10111"}
+               ]
+            },
+            { id:"zm" , label: "Zambia", 
+                calls: [
+                   { type: "police", label: "Police", phone: "999"},
+                   { type: "medical", label: "Medical", phone: "991"},
+                   { type: "fire", label: "Fire", phone: "993"}
+               ]
+            },
+            { id:"zw" , label: "Zimbabwe", 
+                calls: [
+                   { type: "police", label: "Police", phone: "995"},
+                   { type: "medical", label: "Medical", phone: "994"},
+                   { type: "fire", label: "Fire", phone: "993"}
+               ]
+            }
+        ]

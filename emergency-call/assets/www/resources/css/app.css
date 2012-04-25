@@ -1,0 +1,109 @@
+
+.list-item-calls-title
+{
+    float:left;
+    width:100%;
+    white-space: nowrap;  
+    overflow: hidden;  
+    text-overflow: ellipsis;  
+    padding:10px 10px 10px 10px;
+    line-height:150%;
+    height: 100%;
+    background: no-repeat;
+    background-position: center center;
+	padding-left: 70px;
+	padding-bottom: 20px;
+}
+.fire
+{
+    background-image: url(../images/fire.png),linear-gradient(bottom, #EBEBEB 10%, #f9dcda 70%);
+	background-image: url(../images/fire.png),-o-linear-gradient(bottom, #EBEBEB 10%, #f9dcda 70%);
+	background-image: url(../images/fire.png),-moz-linear-gradient(bottom, #EBEBEB 10%, #f9dcda 70%);
+	background-image: url(../images/fire.png),-webkit-linear-gradient(bottom, #EBEBEB 10%, #f9dcda 70%);
+	background-image: url(../images/fire.png),-ms-linear-gradient(bottom, #EBEBEB 10%, #f9dcda 70%);
+	
+	background-image: url(../images/fire.png),-webkit-gradient(
+		linear,
+		left bottom,
+		left top,
+		color-stop(0.1, #EBEBEB),
+		color-stop(0.70, #f9dcda)
+	);																					
+}
+
+.police
+{
+    background-image: url(../images/police.png),linear-gradient(bottom, #EBEBEB 10%, #d0e0ed 70%);
+	background-image: url(../images/police.png),-o-linear-gradient(bottom, #EBEBEB 10%, #d0e0ed 70%);
+	background-image: url(../images/police.png),-moz-linear-gradient(bottom, #EBEBEB 10%, #d0e0ed 70%);
+	background-image: url(../images/police.png),-webkit-linear-gradient(bottom, #EBEBEB 10%, #d0e0ed 70%);
+	background-image: url(../images/police.png),-ms-linear-gradient(bottom, #EBEBEB 10%, #d0e0ed 70%);
+	
+	background-image: url(../images/police.png),-webkit-gradient(
+		linear,
+		left bottom,
+		left top,
+		color-stop(0.1, #EBEBEB),
+		color-stop(0.70, #d0e0ed)
+	);
+}
+
+.medical
+{
+	background-image: url(../images/medical.png),linear-gradient(bottom, #EBEBEB 10%, #D0EAE2 70%);
+	background-image: url(../images/medical.png),-o-linear-gradient(bottom, #EBEBEB 10%, #D0EAE2 70%);
+	background-image: url(../images/medical.png),-moz-linear-gradient(bottom, #EBEBEB 10%, #D0EAE2 70%);
+	background-image: url(../images/medical.png),-webkit-linear-gradient(bottom, #EBEBEB 10%, #D0EAE2 70%);
+	background-image: url(../images/medical.png),-ms-linear-gradient(bottom, #EBEBEB 10%, #D0EAE2 70%);
+	
+	background-image: url(../images/medical.png),-webkit-gradient(
+		linear,
+		left bottom,
+		left top,
+		color-stop(0.1, #EBEBEB),
+		color-stop(0.70, #D0EAE2)
+	);
+}
+
+.list-item-title
+{
+    float:left;
+    width:100%;
+    font-size:90%;
+    white-space: nowrap;  
+    overflow: hidden;  
+    text-overflow: ellipsis;  
+    padding-right:25px;
+    line-height:150%;
+}
+.x-form .x-scroll-container > .x-inner {
+	padding: 0em;
+}
+.x-item-selected .list-item-title 
+{
+    color:#ffffff;
+}
+.x-list-calls .x-list-item-label{
+	height: 7em;
+	padding: 0px;!important;
+    min-height: 3.5em!important;
+}
+
+.x-list-countries .x-list-item-label{
+    min-height: 3.5em!important;
+    padding: 0.65em 0.8em;
+}
+
+.x-list-item .flag-icon-class {
+	background: no-repeat 0px 3px;
+	padding-left: 16px;
+}
+.country-flag {
+	margin-top: -9px;
+}
+.x-input-search {
+	width: 80% !important;
+}
+.x-mask {
+	background: #F0F0F0 center center no-repeat;
+}
