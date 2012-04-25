@@ -13,13 +13,7 @@
         proxy: {
             type: 'ajax',
             url: 'app/store/countries.json'
-        },
-        listeners: {
-            load: { fn: function () {
-                console.log("store loaded");
-            }, scope: this }
         }
     }
-     
 });
 

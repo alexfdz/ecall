@@ -65,6 +65,16 @@
 	);
 }
 
+.x-mask .x-mask-inner {
+	background-color: #9F9F9F;
+	background-image: -webkit-linear-gradient(top, #EBEBEB, #B0B0B0 2%, #8D8D8D);
+	height: 80px;
+}
+
+.x-mask .x-mask-message {
+	padding-top: 20%;
+}
+
 .list-item-title
 {
     float:left;

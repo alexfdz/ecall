@@ -80,6 +80,7 @@
         this.activateCallsList({"id": record.raw.id, 
             "label": record.raw.label});
     }, 
+    
     onCountryChangedCommand: function (list, country) {
         console.log("onCountryChangedCommand");
         if(country){

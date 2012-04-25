@@ -57092,7 +57092,7 @@ Ext.define('Ext.LoadMask', {
          * True to show the loading indicator on this {@link Ext.LoadMask}.
          * @accessor
          */
-        indicator: true,
+        indicator: false,
 
         /**
          * @cfg
