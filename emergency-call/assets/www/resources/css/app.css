@@ -67,12 +67,19 @@
 
 .x-mask .x-mask-inner {
 	background-color: #9F9F9F;
-	background-image: -webkit-linear-gradient(top, #EBEBEB, #B0B0B0 2%, #8D8D8D);
-	height: 80px;
+	background-image: url(../images/ic_launcher.png),linear-gradient(top, #EBEBEB, #B0B0B0 2%, #8D8D8D);
+	background-image: url(../images/ic_launcher.png),-o-linear-gradient(top, #EBEBEB, #B0B0B0 2%, #8D8D8D);
+	background-image: url(../images/ic_launcher.png),-moz-linear-gradient(top, #EBEBEB, #B0B0B0 2%, #8D8D8D);
+	background-image: url(../images/ic_launcher.png),-webkit-linear-gradient(top, #EBEBEB, #B0B0B0 2%, #8D8D8D);
+	background-image: url(../images/ic_launcher.png),-ms-linear-gradient(top, #EBEBEB, #B0B0B0 2%, #8D8D8D);
+	background-image: url(../images/ic_launcher.png), -webkit-linear-gradient(top, #EBEBEB, #B0B0B0 2%, #8D8D8D);
+	height: 120px;
+	background-position: center center;
+	background-repeat:no-repeat;
 }
 
 .x-mask .x-mask-message {
-	padding-top: 20%;
+	padding-top: 60%;
 }
 
 .list-item-title
