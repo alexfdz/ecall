@@ -13,6 +13,11 @@
         proxy: {
             type: 'ajax',
             url: 'app/store/countries.json'
+        },
+        listeners:{
+            load: {fn: function(){
+                console.log('Store loaded');
+            },scope: this}
         }
     }
 });

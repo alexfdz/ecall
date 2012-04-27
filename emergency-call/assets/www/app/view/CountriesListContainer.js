@@ -39,8 +39,7 @@
         this.countriesList = {
                 xtype: "countrieslist",
                 listeners:{
-                    itemtap: { fn: this.onCountrySelected, scope: this },
-                    activate: { fn: this.onShow, scope: this }
+                    itemtap: { fn: this.onCountrySelected, scope: this }
                 }
             };
         
@@ -53,10 +52,6 @@
     onCountrySelected: function (list, index, target, record, evt, options) {
         console.log("saveConfigCommand");
         this.fireEvent('saveConfigCommand', this, record);
-    },
-    onShow: function(list, newActiveItem, oldActiveItem, options) {
-        console.log("onShow");
-        this.fireEvent('activateListCommand', list);
     },
     /**
      * Called when the search field has a keyup event.

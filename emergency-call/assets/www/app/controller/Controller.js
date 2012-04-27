@@ -3,9 +3,9 @@
     extend: "Ext.app.Controller",
     config: {
         refs: {
-            // We're going to lookup our views by xtype.
             callsListContainer: "callslistcontainer",
-            countriesListContainer: "countrieslistcontainer"
+            countriesListContainer: "countrieslistcontainer",
+            countriesList: "countrieslist"
         },
         control: {
             callsListContainer: {
@@ -44,11 +44,13 @@
     // Commands.
     onConfigCommand: function () {
         console.log("onConfigCommand");
+        this.activateListCommand();
         this.activateCountriesList(); 
     },
     
-    activateListCommand: function (list) {
+    activateListCommand: function () {
         console.log("activateListCommand ");
+        var list = this.getCountriesList();
         if(!list.getStore()){
             list.setStore(Ext.getStore("CountriesStore"));
             list.getStore().load();
