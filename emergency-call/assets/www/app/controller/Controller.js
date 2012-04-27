@@ -44,7 +44,6 @@
     // Commands.
     onConfigCommand: function () {
         console.log("onConfigCommand");
-        this.activateListCommand();
         this.activateCountriesList(); 
     },
     

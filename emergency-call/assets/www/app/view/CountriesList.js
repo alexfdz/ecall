@@ -7,6 +7,21 @@
             "style=\"background-image: url(resources/images/flags/{id}.png);\">&nbsp;</span>{label}</div>",
         grouped: true,
         pinHeaders: false,
-        disableSelection: true
+        disableSelection: true,
+        listeners:{
+            show: {fn: function(){
+                console.log('CountriesList show');
+            },scope: this},
+            activate: {fn: function(){
+                console.log('CountriesList activate');
+            },scope: this},
+            initialize: {fn: function(){
+                console.log('CountriesList initialize');
+            },scope: this},
+            painted: {fn: function(){
+                console.log('CountriesList painted');
+            },scope: this}
+        }
     }
+
 });

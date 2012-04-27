@@ -42,6 +42,12 @@
                     itemtap: { fn: this.onCountrySelected, scope: this }
                 }
             };
+        this.setListeners({
+            show: {fn: function(){
+                console.log('activateListCommand');
+                this.fireEvent('activateListCommand', this);
+            },scope: this}
+        });
         
         this.add([topToolbar, this.countriesList, bottomToolbar]);
     },
