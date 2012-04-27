@@ -5,22 +5,19 @@
         refs: {
             // We're going to lookup our views by xtype.
             callsListContainer: "callslistcontainer",
-            countriesList: "countrieslist"
+            countriesListContainer: "countrieslistcontainer"
         },
         control: {
             callsListContainer: {
-                // The commands fired by the calls list container.
                 configCommand: "onConfigCommand",
                 callCommand: "onCallCommand",
                 countryChangedCommand: "onCountryChangedCommand"
             },
-            countriesList: {
-                // The commands fired by the config editor.
+            countriesListContainer: {
                 saveConfigCommand: "onSaveConfigCommand",
                 homeCommand: "onHomeCommand",
-                activateCommand: "onActivateCommand"
+                activateListCommand: "activateListCommand"
             }
-
         }
     },
     
@@ -35,10 +32,11 @@
     },
     
     activateCountriesList: function () {
-        Ext.Viewport.setActiveItem(this.getCountriesList());
+        Ext.Viewport.setActiveItem(this.getCountriesListContainer());
     },
     
     activateCallsList: function (country) {
+        console.log("activateCallsList");
         this.onCountryChangedCommand(this.getCallsListContainer(), country);
         Ext.Viewport.setActiveItem(this.getCallsListContainer());
     },
@@ -49,8 +47,8 @@
         this.activateCountriesList(); 
     },
     
-    onActivateCommand: function (list) {
-        console.log("onActivateCommand ");
+    activateListCommand: function (list) {
+        console.log("activateListCommand ");
         if(!list.getStore()){
             list.setStore(Ext.getStore("CountriesStore"));
             list.getStore().load();
@@ -93,12 +91,13 @@
                     country.id + '.png');
             list.countryButton.show();
         }else{
-            list.countryButton.hide();
+            list.countryButton.setText('Options');
+            list.countryButton.setIcon('resources/images/cog.png');
         }
     },
     onHomeCommand: function () {
         console.log("onHomeCommand");
-        this.activateCallsList();
+        Ext.Viewport.setActiveItem(this.getCallsListContainer());
     }, 
 
     // Base Class functions.

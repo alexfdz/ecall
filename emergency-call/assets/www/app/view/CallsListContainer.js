@@ -9,14 +9,6 @@
         
         var countryIcon;
         var countryLabel;
-        
-        var configButton = {
-            xtype: "button",
-            text: 'Options',
-            ui: 'action',
-            handler: this.onConfig,
-            scope: this
-        };
 
         this.countryButton = new Ext.Button({
             xtype: "button",
@@ -37,9 +29,8 @@
         var bottomToolbar = {
                 xtype: "toolbar",
                 docked: "bottom",
-                items: [this.countryButton,
-                        { xtype: "spacer" },
-                        configButton]
+                items: [{ xtype: "spacer" },
+                        this.countryButton]
             };
         
         var callsList = {
@@ -49,6 +40,7 @@
                 itemtap: { fn: this.onCallSelected, scope: this },
             }
         };
+        
         this.fireEvent('countryChangedCommand', this, this.config.country);
         this.add([topToolbar, callsList, bottomToolbar]);
     },

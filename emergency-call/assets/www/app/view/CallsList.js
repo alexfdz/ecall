@@ -3,7 +3,7 @@
     alias: "widget.callslist",
     config: {
         loadingText: "Loading emergency calls...",
-        emptyText: "<div class=\"notes-list-empty-text\">No calls found.</div>",
+        emptyText: "<div class=\"x-mask\"> No emergency calls found, please select a country.</div>",
         cls: "x-list-calls",
         itemTpl: "<div class=\"list-item-calls-title {type}\" onclick=\"window.location = 'tel:{phone}'\"/>",
         singleSelect: true

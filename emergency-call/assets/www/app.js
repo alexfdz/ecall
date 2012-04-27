@@ -1,10 +1,13 @@
+Ext.Loader.setConfig('disableCaching',false);
+
 Ext.application({
     name: "EmergencyCall",
     models: ["Call", "Country"],
     stores: ["CallsStore", "CountriesStore"],
     controllers: ["Controller"],
-    views: ["CallsList", "CallsListContainer", "CountriesList"],
-
+    views: ["CallsList", "CallsListContainer", "CountriesList", "CountriesListContainer"],
+    
+    
     launch: function () {
         var country;
         var storedCall = Ext.getStore("CallsStore").getAt(0);
@@ -19,11 +22,11 @@ Ext.application({
             country: country
         };
        
-        var countriesList = {
-            xtype: "countrieslist",
+        var countriesListContainer = {
+            xtype: "countrieslistcontainer",
         };
         
-        Ext.Viewport.add([callsListContainer, countriesList]);
+        Ext.Viewport.add([callsListContainer, countriesListContainer]);
         
         if(!country){
             Ext.Viewport.setActiveItem(1);
