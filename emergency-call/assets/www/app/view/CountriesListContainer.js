@@ -59,7 +59,6 @@
     onCountrySelected: function (list, index, target, record, evt, options) {
         console.log("saveConfigCommand");
         this.fireEvent('saveConfigCommand', this, record);
-        evt.stopEvent();
     },
     /**
      * Called when the search field has a keyup event.

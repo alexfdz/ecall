@@ -5,7 +5,7 @@
         loadingText: "Loading emergency calls...",
         emptyText: "<div class=\"x-mask\"> No emergency calls found, please select a country.</div>",
         cls: "x-list-calls",
-        itemTpl: "<div class=\"list-item-calls-title {type}\" onclick=\"window.location = 'tel:{phone}'\"/>",
+        itemTpl: "<div class=\"list-item-calls-title {type}\"/>",
         singleSelect: true
     }
 });
