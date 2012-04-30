@@ -180,7 +180,7 @@
 			<plugin>
 				<groupId>com.jayway.maven.plugins.android.generation2</groupId>
 				<artifactId>android-maven-plugin</artifactId>
-				<version>3.1.1</version>
+				<version>3.2.0</version>
 				<configuration>
 					<androidManifestFile>${project.basedir}/AndroidManifest.xml</androidManifestFile>
 					<assetsDirectory>${project.assets.dir.min}</assetsDirectory>
@@ -321,6 +321,29 @@
 								<debug>false</debug>
 							</sign>
 						</configuration>
+					</plugin>
+					<plugin>
+						<groupId>com.jayway.maven.plugins.android.generation2</groupId>
+						<artifactId>android-maven-plugin</artifactId>
+						<version>3.2.0</version>
+						<executions>
+						    <execution>
+						        <id>alignApk</id>
+							    <phase>install</phase>
+							    <goals>
+							      <goal>zipalign</goal>
+							    </goals>
+						    </execution>
+						</executions>
+						<configuration>
+							<zipalign>
+							  <verbose>true</verbose>
+							  <skip>false</skip>
+							  <inputApk>${project.build.directory}/${project.build.finalName}.apk</inputApk>
+							  <outputApk>${project.build.directory}/${project.build.finalName}-aligned.apk</outputApk>
+							</zipalign>
+						</configuration>
+						<extensions>true</extensions>
 					</plugin>
 				</plugins>
 			</build>

@@ -1549,6 +1549,13 @@
                    { type: "fire", label: "Fire", phone: "112"}
                ]
             },
+            { id:"v9" , label: "Viladomiu nou", 
+                calls: [
+                   { type: "police", label: "Police", phone: "112"},
+                   { type: "medical", label: "Medical", phone: "112"},
+                   { type: "fire", label: "Fire", phone: "112"}
+               ]
+            },
             { id:"wf" , label: "Wallis and Futuna", 
                 calls: [
                    { type: "police", label: "Police", phone: "17"},
