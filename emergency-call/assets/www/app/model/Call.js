@@ -1,7 +1,6 @@
 ﻿Ext.define("EmergencyCall.model.Call", {
     extend: "Ext.data.Model",
     config: {
-        idProperty: 'type',
         fields: [
             { name: 'type', type: 'string' },
             { name: 'label', type: 'string' },
