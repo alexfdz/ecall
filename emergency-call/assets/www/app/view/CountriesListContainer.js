@@ -50,13 +50,16 @@
         
         this.add([topToolbar, this.countriesList, bottomToolbar]);
     },
+    
     onBackButton: function () {
         console.log("onBackButton");
         this.fireEvent("homeCommand", this);
     },
+    
     onCountrySelected: function (list, index, target, record, evt, options) {
         console.log("saveConfigCommand");
         this.fireEvent('saveConfigCommand', this, record);
+        evt.stopEvent();
     },
     /**
      * Called when the search field has a keyup event.
@@ -120,6 +123,7 @@
         //call the clearFilter method on the store instance
         this.countriesList.getStore().clearFilter();
     },
+    
     config: {
         fullscreen: true,
         layout: 'fit'
