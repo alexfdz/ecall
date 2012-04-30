@@ -45,7 +45,7 @@
 		<dependency>
 			<groupId>org.apache</groupId>
 			<artifactId>cordova</artifactId>
-			<version>1.6.0</version>
+			<version>1.7.0rc1</version>
 		</dependency>
 	</dependencies>
 

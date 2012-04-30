@@ -27,9 +27,5 @@ Ext.application({
         };
         
         Ext.Viewport.add([callsListContainer, countriesListContainer]);
-        
-        if(!country){
-            Ext.Viewport.setActiveItem(1);
-        }
     }
 });

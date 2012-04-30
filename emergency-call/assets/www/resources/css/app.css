@@ -38,12 +38,12 @@
 	background-image: url(../images/ic_launcher.png),-ms-linear-gradient(top, #EBEBEB, #B0B0B0 2%, #8D8D8D);
 	background-image: url(../images/ic_launcher.png), -webkit-linear-gradient(top, #EBEBEB, #B0B0B0 2%, #8D8D8D);
 	height: 120px;
-	background-position: center center;
+	background-position: 50% 20%;
 	background-repeat:no-repeat;
 }
 
 .x-mask .x-mask-message {
-	padding-top: 60%;
+	padding-top: 40%;
 }
 
 .list-item-title
@@ -86,7 +86,8 @@
 .x-input-search {
 	width: 80% !important;
 }
-.x-mask {
+.x-list-inner .x-mask {
 	background: #F0F0F0 center center no-repeat;
+	text-align: center;
 }
 

@@ -36,12 +36,11 @@
                 items: [backButton]
             };
         
-        this.countriesList = {
-                xtype: "countrieslist",
+        this.countriesList = new EmergencyCall.view.CountriesList({
                 listeners:{
                     itemtap: { fn: this.onCountrySelected, scope: this }
                 }
-            };
+            });
         this.setListeners({
             show: {fn: function(){
                 console.log('activateListCommand');

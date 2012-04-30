@@ -5,19 +5,25 @@
         storeId:'CountriesStore',
         sorters: 'label',
         autoLoad: false,
-        grouper: {
-           groupFn: function(record) {
-               return record.get('label')[0];
-           }
-        },
+        noCache: false,
         proxy: {
             type: 'ajax',
-            url: 'app/store/countries.json'
+            url: 'app/store/countries.json',
+            noCache: false,
+            enablePagingParams: false,
+            reader: {
+            	type:'json'
+            },
+            masked: {
+                xtype: 'loadmask',
+                message: 'My message',
+                indicator: false
+            }
         },
-        listeners:{
-            load: {fn: function(){
-                console.log('Store loaded');
-            },scope: this}
+        masked: {
+            xtype: 'loadmask',
+            message: 'My message',
+            indicator: false
         }
     }
 });

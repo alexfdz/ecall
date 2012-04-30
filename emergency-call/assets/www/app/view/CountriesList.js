@@ -5,23 +5,31 @@
         cls: "x-list-countries",
         itemTpl: "<div class=\"list-item-title\"><span class=\"icn flag-icon-class\" " + 
             "style=\"background-image: url(resources/images/flags/{id}.png);\">&nbsp;</span>{label}</div>",
-        grouped: true,
         pinHeaders: false,
         disableSelection: true,
-        listeners:{
-            show: {fn: function(){
-                console.log('CountriesList show');
-            },scope: this},
-            activate: {fn: function(){
-                console.log('CountriesList activate');
-            },scope: this},
-            initialize: {fn: function(){
-                console.log('CountriesList initialize');
-            },scope: this},
-            painted: {fn: function(){
-                console.log('CountriesList painted');
-            },scope: this}
+       loadingText: 'Loading countries ...'
+    },
+    onBeforeLoad: function() {
+        var scrollable = this.getScrollable();
+        if (scrollable) {
+            scrollable.getScroller().stopAnimation();
         }
+
+        var loadingText = this.getLoadingText();
+        if (loadingText) {
+            this.setMasked({
+                xtype: 'loadmask',
+                message: loadingText,
+                indicator: false,
+            });
+
+            //disable scorlling while it is masked
+            if (scrollable) {
+                scrollable.getScroller().setDisabled(true);
+            }
+        }
+
+        this.hideEmptyText();
     }
 
 });
